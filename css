@@ -1,0 +1,20 @@
+img {
+    max-width: 20%;
+    max-height: 20%;
+  }
+  h1 {
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  h3 {
+    font-size: 25px;
+  }
+  p {
+    font-size: 18px;
+    color: midnightblue;
+  }
+  ul {
+    font-size: 18px;
+  }
+  
